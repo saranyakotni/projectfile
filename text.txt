@@ -1,0 +1,10 @@
+ Volume in drive C is Windows 8.1
+ Volume Serial Number is F8E4-EA92
+
+ Directory of C:\Users\KOTNI SARAT KUMAR\Desktop\MyProject
+
+05-01-2018  15:51    <DIR>          .
+05-01-2018  15:51    <DIR>          ..
+05-01-2018  15:51                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  100,301,582,336 bytes free
